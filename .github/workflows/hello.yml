@@ -2,7 +2,7 @@ name: "Hello"
 
 on:
   pull_request:
-    types: [opened, reopened]
+    brnaches: [firstPiar]
    
 jobs:
   hello:
